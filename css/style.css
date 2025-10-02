@@ -232,11 +232,6 @@ main button:hover {
   align-items: center;
 }
 
-.section-3 .left-arrow,
-.section-3 .right-arrow {
-  color: #777;
-}
-
 .section-3 h2 {
   font-size: 3rem;
   font-weight: 600;
